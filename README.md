@@ -1,2 +1,3 @@
-# SiraniMcNeillPortfolio.github.io
-Portfolio
+# SiraniMcNeillPortfolio.github.io #
+
+Sirani McNeill 
