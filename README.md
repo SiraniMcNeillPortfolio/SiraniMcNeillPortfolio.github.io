@@ -1,5 +1,3 @@
-
-
-About Sirani McNeill 
+# SiraniMcNeillPortfolio.github.io
 
 
