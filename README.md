@@ -9,8 +9,8 @@ I got my theme [webpage]("https://github.com/sergiokopplin/indigo").
 
 
 # Contact me
-Email: siranimcneill020@gmail.com
-Linkedin: Sirani McNeill (http://www.linkedin.com/in/sirani-m)
+Email: [Sirani McNeill](siranimcneill020@gmail.com)
+Linkedin: [Sirani McNeill](http://www.linkedin.com/in/sirani-m)
     
     
 
