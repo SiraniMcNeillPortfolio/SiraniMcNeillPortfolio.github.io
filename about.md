@@ -8,33 +8,27 @@ layout: page
 
 <p> I started learning to code as a mature age student at UNITEC Polytechnic in Auckland New Zealand in 2014 and realised that I wanted a career in information technology. Before that, I did qualifications in Business Administration and did an office administration assistant role at a medical clinic, but  I decided to switch my career goals because of my disability barriers. I started building my own Tumblr blog coding from scratch and this was a lot of fun as I loved creating the blog themes, images and creative content. As a child, I did poorly in Maths and Science but I loved learning about Computer Science facts in my spare time. </p>
 
-<p> At this present day, <strong>I am currently interested in work </strong>. I'd love to work on creative tech projects that involve design and code. I'm actively looking for work for companies who work for a purpose, that have impactful goals and that allow room for self improvement. I'm looking for Graduate roles!
-</p>
+<p> Currently I am interested in any sort of <strong> internship or graduate role </strong> or <strong> full time work </strong> in the fields stated above either onsite or remote. I enjoy doing creative technical projects which involves design and code. I am actively looking to work for companies who work for a purpose with mentors for self-improvement and people are experienced in diversity and inclusion. </p>
 
-<h3>Interesting facts about me:</h3>
-<p> In my spare time I play video games, walk to places and binge watch Netflix! At the moment I'm learning Japanese as a spoken language and learning how to be a better photographer. I'm currently the president of ProgSoc and the vice president of the Interaction and Games Design Society at UTS, together both highlight my interest in social change and building a better university experience for people. 
-</p>
+<h2> About Me </h2>
+<p> I was adopted from Bangkok, Thailand to European parents from France and New Zealand. I have a severe hearing loss and mild Aspergers Syndrome. Apart from learning online and coding, I enjoy travelling around the world and interacting with different cultures. At the moment I am learning Thai and German language; while trying to improve my Australian Sign Language and French. I also enjoy knitting and embroidery to relax me.</p>
 
 <p> <strong> I got my theme <a href="https://github.com/sergiokopplin/indigo">here</a>. </strong></p>
 
-<h2>Skills</h2>
+<h2>Coding Languages</h2>
 
 <ul class="skill-list">
-	<li>HTML + Jade </li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS</li>
-	<li>Unity3D</li>
-	<li>Javascript</li>
+	<li>HTML + CSS + Javascript </li>
+	<li>Ruby</li>
+	<li>PHP</li>
+	<li>React</li>
+	<li>ES6</li>
 	<li>NodeJS</li>
 	<li>Angular</li>
 	<li>Typescript</li>
-	<li>Git</li>
-	<li>Ionic Framework</li>
-	<li>Task management, documentations</li>
-	<li>C Sharp</li>
-	<li>Virtual Reality, Augmented Reality and Mixed Reality</li>
-	<li>Gatsby</li>
-	<li>React ES6</li>
+	<li>Git Bash</li>
+	<li>Vue</li>
+	<li>Python</li>
 </ul>
 
 <h2>Projects</h2>
