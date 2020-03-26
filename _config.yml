@@ -1,0 +1,41 @@
+name: Rosalinda Prom
+bio: 'Coder, creative & innovator.'
+description: Rosie's website.
+external-image: true
+picture:  /assets/selfie.jpg
+resume: true
+resume-external: true
+resume-url: /assets/RosalindaProm_CV_2019.pdf
+url: 'http://developerpeachy.github.io'
+permalink: '/:title/'
+twitter: developerpeachy
+instagram: developerpeachy
+linkedin: rosalinda-prom-15508a85
+spotify: 1271090101?si=AYQYwRkFTF-4clAGpZZrfQ
+github: developerpeachy
+email: rosalinda.prom@gmail.com
+authors:
+  rosalieprom:
+    name: Rosalinda Prom
+    bio: 'Coder, creative & innovator.'
+    external-image: 'false'
+    picture: >-
+      /assets/id.jpg
+    twitter: developerpeachy
+width: normal
+about: true
+blog: true
+read-time: true
+show-tags: true
+related: true
+post-advance-links:
+  - blog
+show-author: true
+animation: true
+plugins_dir:
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+jekyll-mentions:
+  base_url: 'https://github.com'
