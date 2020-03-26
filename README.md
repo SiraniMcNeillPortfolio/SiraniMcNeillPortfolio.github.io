@@ -2,14 +2,14 @@
 
 To download my portfolio run this command -`bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 
-# Sources:
+# Portfolio Sources:
 
 Jekyll [webpage](https://jekyllrb.com/):  
 I got my theme [webpage]("https://github.com/sergiokopplin/indigo").
 
-
 # Contact me
 Email: [Sirani McNeill](siranimcneill020@gmail.com)
+<br> </br>
 Linkedin: [Sirani McNeill](http://www.linkedin.com/in/sirani-m)
     
     
