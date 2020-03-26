@@ -1,4 +1,4 @@
-# siranimcneillportfolio.github.io peach: 
+# siranimcneillportfolio.github.io 
 
 To download my portfolio run this command -`bundle exec jekyll serve --config _config.yml,_config-dev.yml`
 
