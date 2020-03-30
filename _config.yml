@@ -1,27 +1,26 @@
-name: Rosalinda Prom
-bio: 'Coder, creative & innovator.'
-description: Rosie's website.
+name: Sirani McNeill
+bio: 'Blockchain and Cyber Security Software Engineer'
+description: Sirani McNeill
 external-image: true
-picture:  /assets/selfie.jpg
+picture:   /https://twitter.com/JobseekerSirani/photo
 resume: true
 resume-external: true
-resume-url: /assets/RosalindaProm_CV_2019.pdf
-url: 'http://developerpeachy.github.io'
+resume-url: 
+url: 'http://siranimcneillportfolio.github.io
 permalink: '/:title/'
-twitter: developerpeachy
-instagram: developerpeachy
-linkedin: rosalinda-prom-15508a85
-spotify: 1271090101?si=AYQYwRkFTF-4clAGpZZrfQ
-github: developerpeachy
-email: rosalinda.prom@gmail.com
+twitter: jobseekersirani
+linkedin: sirani-m
+github: mcne65
+email: siranimcneill020@gmail.com
 authors:
-  rosalieprom:
-    name: Rosalinda Prom
-    bio: 'Coder, creative & innovator.'
+  siranimcneill:
+    name: Sirani McNeill
+    bio: 'Blockchain and Cyber Security Software Engineer'
     external-image: 'false'
     picture: >-
-      /assets/id.jpg
-    twitter: developerpeachy
+      /https://twitter.com/JobseekerSirani/photo
+    twitter: jobseekersirani
+>>>>>>> Stashed changes
 width: normal
 about: true
 blog: true

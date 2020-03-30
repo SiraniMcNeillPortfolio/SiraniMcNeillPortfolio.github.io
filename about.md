@@ -31,6 +31,7 @@ layout: page
 	<li>Python</li>
 </ul>
 
+<<<<<<< Updated upstream
 <h2>Projects</h2>
 
 <p> I've been experimenting with a range of tech frameworks and libraries and came across Gatsby! I'm in love with how fast and easy it is to use and host on Netlify. Before discovering React, I was into Angular and Ionic and decided to give it a go. It is still considered a dead project, but I really want to live it up eventually. I was also involved with other projects as well through small open source groups. Of which I can't showcase yet, because they are all in dev mode. Below are some of the projects I've been working on. </p>
@@ -40,4 +41,14 @@ layout: page
 	<li><a href="https://nifty-hawking-a6801e.netlify.com/">ProgSoc landing page</a></li>
 	<li><a href="https://romantic-ramanujan-1c0448.netlify.com/">Rosalie's landing page</a></li>
 	<li><a href="https://github.com/developerpeachy/Splitr">Splitr</a></li>
+=======
+<h2>Volunteer and Projects</h2>
+
+<p> I have organised CoderDojo in my city for five years </p>
+
+
+<ul>
+	<li><a href="http://coderdojohawthorn.tech/CoderDojo/"> CoderDojo Hawthorn </a></li>
+
+>>>>>>> Stashed changes
 </ul>
